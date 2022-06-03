@@ -25,4 +25,10 @@ export const TASKS: Task[] = [
     day: 'Agosto 5 a las 21:00',
     reminder: false,
   },
+  {
+    id: 5,
+    text: 'Seguir el video de task-list en el minuto 41:36',
+    day: 'Agosto 5 a las 21:00',
+    reminder: false,
+  },
 ];
